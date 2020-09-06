@@ -23,3 +23,4 @@
 
 * Redux
 * React-Redux
+* Javascript-time-ago
